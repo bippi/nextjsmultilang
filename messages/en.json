@@ -1,0 +1,11 @@
+{
+  "Index": {
+    "title": "Hello world!"
+  },
+  "AboutPage": {
+    "title": "about us"
+  },
+  "NotFoundPage": {
+    "description": "Not found"
+  }
+}
