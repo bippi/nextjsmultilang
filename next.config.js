@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const withNextIntl = require("next-intl/plugin")();
 const nextConfig = {
-  export: "standalone",
+  output: "standalone",
 };
 
 module.exports = withNextIntl(nextConfig);
