@@ -1,6 +1,5 @@
 export const locales = ["is", "en"];
 export const pathnames = {
-  "/": "/",
   "/umokkur": {
     is: "/umokkur",
     en: "/about",
